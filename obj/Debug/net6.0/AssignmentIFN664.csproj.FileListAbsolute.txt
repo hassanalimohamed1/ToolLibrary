@@ -1,0 +1,15 @@
+/Users/hassan/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/Documents/SEM1_2022/IFN664/AssignmentIFN664/bin/Debug/net6.0/AssignmentIFN664
+/Users/hassan/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/Documents/SEM1_2022/IFN664/AssignmentIFN664/bin/Debug/net6.0/AssignmentIFN664.deps.json
+/Users/hassan/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/Documents/SEM1_2022/IFN664/AssignmentIFN664/bin/Debug/net6.0/AssignmentIFN664.runtimeconfig.json
+/Users/hassan/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/Documents/SEM1_2022/IFN664/AssignmentIFN664/bin/Debug/net6.0/AssignmentIFN664.dll
+/Users/hassan/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/Documents/SEM1_2022/IFN664/AssignmentIFN664/bin/Debug/net6.0/AssignmentIFN664.pdb
+/Users/hassan/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/Documents/SEM1_2022/IFN664/AssignmentIFN664/obj/Debug/net6.0/AssignmentIFN664.csproj.AssemblyReference.cache
+/Users/hassan/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/Documents/SEM1_2022/IFN664/AssignmentIFN664/obj/Debug/net6.0/AssignmentIFN664.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hassan/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/Documents/SEM1_2022/IFN664/AssignmentIFN664/obj/Debug/net6.0/AssignmentIFN664.AssemblyInfoInputs.cache
+/Users/hassan/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/Documents/SEM1_2022/IFN664/AssignmentIFN664/obj/Debug/net6.0/AssignmentIFN664.AssemblyInfo.cs
+/Users/hassan/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/Documents/SEM1_2022/IFN664/AssignmentIFN664/obj/Debug/net6.0/AssignmentIFN664.csproj.CoreCompileInputs.cache
+/Users/hassan/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/Documents/SEM1_2022/IFN664/AssignmentIFN664/obj/Debug/net6.0/AssignmentIFN664.dll
+/Users/hassan/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/Documents/SEM1_2022/IFN664/AssignmentIFN664/obj/Debug/net6.0/refint/AssignmentIFN664.dll
+/Users/hassan/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/Documents/SEM1_2022/IFN664/AssignmentIFN664/obj/Debug/net6.0/AssignmentIFN664.pdb
+/Users/hassan/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/Documents/SEM1_2022/IFN664/AssignmentIFN664/obj/Debug/net6.0/AssignmentIFN664.genruntimeconfig.cache
+/Users/hassan/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/Documents/SEM1_2022/IFN664/AssignmentIFN664/obj/Debug/net6.0/ref/AssignmentIFN664.dll
